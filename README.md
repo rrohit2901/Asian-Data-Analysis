@@ -36,7 +36,7 @@ Properties of collected data:-
 - Has posts spanning from last 7 years
 - Has posts from both Facebook and Instagram
 
-# Analysis of data
+#### Analysis of data
 I did following analysis on data, separately for facebook and Instagram:-
 1. Temporal analysis on number of posts                                                                                                                                                                        
 2. Extracted statistics about pages posting on content and sorted them based on number of posts made by the account/page and number of subscribers.                                                         
